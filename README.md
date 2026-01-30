@@ -26,6 +26,21 @@ packages/syntexa/
 └── ...                        # Other packages
 ```
 
+## New project setup
+
+To scaffold a new Syntexa project structure (folders and minimal files):
+
+```bash
+mkdir my-app && cd my-app
+composer init -n
+composer require syntexa/core
+vendor/bin/syntexa init
+cp .env.example .env
+# Edit .env, then: php server.php
+```
+
+The `syntexa init` command creates: `bin/`, `public/`, `src/modules/`, `src/infrastructure/`, `var/cache`, `var/log`, `var/docs`, `.env.example`, `server.php`, `bin/syntexa`, `.gitignore`. Use `--force` to overwrite existing files, `--dir=/path` to target another directory.
+
 ## Quick links (shared docs)
 
 | Topic | Location |
