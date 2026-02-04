@@ -1,0 +1,15 @@
+{
+    "name": "semitexa/docs",
+    "description": "Semitexa Framework documentation (shared docs, architecture, guides, package map)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Semitexa",
+            "email": "support@semitexa.local"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
