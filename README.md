@@ -37,9 +37,9 @@ Based on extensive research into why Large Language Models (LLMs) hallucinate wi
 
 ### Heritage and Open Source
 
-The Semitexa core is built upon the collective wisdom of the PHP community. It reflects lessons learned from a diverse lineage of frameworks and platforms: **Zend Framework (1 & 2), CodeIgniter, Kohana, Symfony, Laravel, Laminas, and Magento 2**.
+The Semitexa core is built upon the collective wisdom of the PHP community. It reflects lessons learned from decades of framework and platform evolution across the ecosystem.
 
-Semitexa does not seek to replace these tools but to offer a specialized alternative for those facing new-generation challenges. At its heart, Semitexa is a commitment to the Open Source ecosystem and the continuous evolution of professional PHP.
+Semitexa does not seek to replace existing tools but to offer a specialized alternative for those facing new-generation challenges. At its heart, Semitexa is a commitment to the Open Source ecosystem and the continuous evolution of professional PHP.
 
 ---
 
